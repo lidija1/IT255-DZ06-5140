@@ -1,0 +1,22 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "ime": "Phone 1",
+      "model": "Model A",
+      "serijskiBroj": "ABC123"
+    },
+    {
+      "id": 2,
+      "ime": "Phone 2",
+      "model": "Model B",
+      "serijskiBroj": "XYZ789"
+    },
+    {
+      "id": 3,
+      "ime": "Phone 3",
+      "model": "Model C",
+      "serijskiBroj": "HB7S8B"
+    }
+  ]
+}
